@@ -1,4 +1,5 @@
-# Cookie Shop Dashboard
+# Cookie Shop Dashboard  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 This dashboard provides insights into the performance of a cookie shop, visualizing key metrics related to orders, customers, revenue, and product preferences. The dashboard is divided into five main sections:
 
 ## 1. Unfilled Orders by Month
